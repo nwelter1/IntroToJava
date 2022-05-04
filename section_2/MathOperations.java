@@ -16,6 +16,7 @@ public class MathOperations {
         System.out.println("Fred has  " + (bagOfSweets2 - bagOfSweets1) +  " more sweets than George");
         System.out.println("The Andromeda Galaxy has "+ (starsInAndromeda - starsInMilkyWay) + " more stars than the Milky Way");
         System.out.println("Snape ended up removing marks. Ron actually scored "+ (testScore - bonusMarks) + " on his potions test");
+        //GO FURTHER into modulo, incrementing/decreasing += -= ++ -- %
     }
 }
 
